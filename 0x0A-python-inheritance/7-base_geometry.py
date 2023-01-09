@@ -25,7 +25,7 @@ class BaseGeometry:
             value (int): The value.
 
         Raises:
-            TypeError: If `value` isn't an integer.
+            TypeError: If `value` isn't a integer.
             ValueError: If `value` is less than or equal to zero.
         """
 
