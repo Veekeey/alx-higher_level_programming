@@ -1,5 +1,7 @@
 #!/usr/bin/node
 
+// a script that concats 2 files.
+
 const fs = require('fs');
 let content = '';
 
